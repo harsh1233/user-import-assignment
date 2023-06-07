@@ -1,7 +1,7 @@
 # Project setup 
 Clone the Repo:
 1) git clone project repo url
-2) composer install or composer update
+2) composer install 
 3) cp .env.example .env
 4) Set up .env file
 5) php artisan key:generate
