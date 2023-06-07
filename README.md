@@ -7,4 +7,4 @@ Clone the Repo:
 5) php artisan key:generate
 6) php artisan migrate
 7) php artisan serve
-[http://127.0.0.1:8000/users)
+http://127.0.0.1:8000/users
